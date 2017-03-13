@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Farm Maintenance</string>
+    <string name="fan_on">Fan ON</string>
+    <string name="sprinkler_on">Sprinkler ON</string>
+</resources>
